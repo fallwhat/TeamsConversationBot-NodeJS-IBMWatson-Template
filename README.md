@@ -77,6 +77,8 @@ the Teams service needs to call into the bot.
     ```
     After you create your bot
     Change de occurences without credentials with your own ApiURL
+    
+    You need to configure the URL with date and session, consult the watson docs to more information: https://cloud.ibm.com/apidocs/assistant/assistant-v2
     ```
 1) Run your bot at the command line:
 
